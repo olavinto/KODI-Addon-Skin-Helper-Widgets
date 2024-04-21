@@ -1,0 +1,298 @@
+# Kodi language file
+# Addon Name: Skin Helper Widgets
+# Addon id: script.skin.helper.widgets
+# Addon Provider: marcelveldt
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2014-10-26 17:05+0000\n"
+"PO-Revision-Date: 2024-04-21 13:35+0300\n"
+"Last-Translator: Oskari Lavinto <olavinto@protonmail.com>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgctxt "#32000"
+msgid "Favourites"
+msgstr "Suosikit"
+
+msgctxt "#32001"
+msgid "Favourite Media"
+msgstr "Suosikkimedia"
+
+msgctxt "#32002"
+msgid "Next Episodes"
+msgstr "Seuraavat jaksot"
+
+msgctxt "#32003"
+msgid "Recommended Movies"
+msgstr "Elokuvasuositukset"
+
+msgctxt "#32004"
+msgid "Recommended Media"
+msgstr "Sarjasuositukset"
+
+msgctxt "#32005"
+msgid "Recent Media"
+msgstr "Uusin media"
+
+msgctxt "#32006"
+msgid "Similar Movies"
+msgstr "Samankaltaiset elokuvat"
+
+msgctxt "#32007"
+msgid "In progress and Recommended Media"
+msgstr "Keskeneräinen ja suositeltu media"
+
+msgctxt "#32008"
+msgid "Random Episodes"
+msgstr "Satunnaiset jaksot"
+
+msgctxt "#32009"
+msgid "Recommended Episodes"
+msgstr "Jaksosuositukset"
+
+msgctxt "#32010"
+msgid "In progress and recommended Episodes"
+msgstr "Keskeneräiset ja suositellut jaksot"
+
+msgctxt "#32011"
+msgid "In progress Media"
+msgstr "Keskeneräinen media"
+
+msgctxt "#32012"
+msgid "Recently added songs"
+msgstr "Viimeksi lisätyt kappaleet"
+
+msgctxt "#32013"
+msgid "Recently played songs"
+msgstr "Viimeksi toistetut kappaleet"
+
+msgctxt "#32014"
+msgid "Similar TV Shows"
+msgstr "Samankaltaiset sarjat"
+
+msgctxt "#32015"
+msgid "Recommended albums"
+msgstr "Albumisuositukset"
+
+msgctxt "#32016"
+msgid "Recommended songs"
+msgstr "Kappalesuositukset"
+
+msgctxt "#32017"
+msgid "PVR Channel groups"
+msgstr "Television kanavaryhmät"
+
+msgctxt "#32018"
+msgid "Recent recordings"
+msgstr "Uusimmat tallenteet"
+
+msgctxt "#32019"
+msgid "Next unwatched recordings"
+msgstr "Seuraavat katsomattomat tallenteet"
+
+msgctxt "#32020"
+msgid "TV Channels"
+msgstr "Televisiokanavat"
+
+msgctxt "#32021"
+msgid "Timers"
+msgstr "Ajastukset"
+
+msgctxt "#32022"
+msgid "Similar Media"
+msgstr "Samakaltainen media"
+
+msgctxt "#32023"
+msgid "Widgets"
+msgstr "Widgetit"
+
+msgctxt "#32024"
+msgid "Enable artwork lookups"
+msgstr "Nouda mediakuvituksia"
+
+msgctxt "#32025"
+msgid "Show specials in episode widgets"
+msgstr "Näytä erikoisjaksot jaksowidgeteissä"
+
+msgctxt "#32026"
+msgid "Browse albums instead of playing for album widgets"
+msgstr "Toiston sijaan selaa albumeita albumiwidgeteistä"
+
+msgctxt "#32027"
+msgid "In-progress episodes"
+msgstr "Keskeneräiset jaksot"
+
+msgctxt "#32028"
+msgid "In-progress movies"
+msgstr "Keskeneräiset elokuvat"
+
+msgctxt "#32029"
+msgid "In-progress and recommended movies"
+msgstr "Keskeneräiset ja suositellut elokuvat"
+
+msgctxt "#32030"
+msgid "TV Channels (with artwork)"
+msgstr "Televisiokanavat (mediakuvituksilla)"
+
+msgctxt "#32031"
+msgid "Next unwatched recordings (reversed)"
+msgstr "Seuraavat katsomattomat tallenteet (käänteinen)"
+
+msgctxt "#32032"
+msgid "In-progress and random movies"
+msgstr "Keskeneräiset ja satunnaiset elokuvat"
+
+msgctxt "#32033"
+msgid "Random albums"
+msgstr "Satunnaiset albumit"
+
+msgctxt "#32034"
+msgid "Random songs"
+msgstr "Satunnaiset kappaleet"
+
+msgctxt "#32035"
+msgid "Hide watched items in video widgets"
+msgstr "Piilota katsotut kohteet videowidgeteistä"
+
+msgctxt "#32036"
+msgid "Only use in-progress shows in next episodes widget"
+msgstr "Sisällytä seuraavien jaksojen widgettiin vain keskeneräiset sarjat"
+
+msgctxt "#32037"
+msgid "Recommended Tv Shows"
+msgstr "Sarjasuositukset"
+
+msgctxt "#32038"
+msgid "Recently added movies"
+msgstr "Viimeksi lisätyt elokuvat"
+
+msgctxt "#32039"
+msgid "Recently added episodes"
+msgstr "Viimeksi lisätyt jaksot"
+
+msgctxt "#32040"
+msgid "Recently added musicvideos"
+msgstr "Viimeksi lisätyt musiikkivideot"
+
+msgctxt "#32041"
+msgid "Random Tv Shows"
+msgstr "Satunnaiset sarjat"
+
+msgctxt "#32042"
+msgid "Unaired episodes"
+msgstr "Esittämättömät jaksot"
+
+msgctxt "#32043"
+msgid "Next airing episodes"
+msgstr "Seuraavaksi esitettävät jaksot"
+
+msgctxt "#32044"
+msgid "In progress TV shows"
+msgstr "Keskeneräiset sarjat"
+
+msgctxt "#32045"
+msgid "Recently added TV shows"
+msgstr "Viimeksi lisätyt sarjat"
+
+msgctxt "#32046"
+msgid "IMDB Top 250 movies in library"
+msgstr "Kirjaston IMDB Top 250 -elokuvat"
+
+msgctxt "#32047"
+msgid "IMDB Top 250 Tv shows in library"
+msgstr "Kirjaston IMDB Top 250 -sarjat"
+
+msgctxt "#32048"
+msgid "Random movies"
+msgstr "Satunnaiset elokuvat"
+
+msgctxt "#32049"
+msgid "In progress and random Episodes"
+msgstr "Keskeneräiset ja satunnaiset jaksot"
+
+msgctxt "#32050"
+msgid "Group items in recent episodes widget"
+msgstr "Ryhmittele uusien jaksojen widgetin kohteet"
+
+msgctxt "#32051"
+msgid "Browse TV Show"
+msgstr "Selaa sarjaa"
+
+msgctxt "#32052"
+msgid "Browse Season"
+msgstr "Selaa kautta"
+
+msgctxt "#32053"
+msgid "Default number of items to show in widget"
+msgstr "Widgetissä näytettävien kohteiden oletusmäärä"
+
+msgctxt "#32054"
+msgid "PVR"
+msgstr "Televisio/tallennin"
+
+msgctxt "#32055"
+msgid "Similar songs"
+msgstr "Samankaltaiset kappaleet"
+
+msgctxt "#32056"
+msgid "Similar albums"
+msgstr "Samakaltaiset albumit"
+
+msgctxt "#32057"
+msgid "Mixed Media"
+msgstr "Sekalainen media"
+
+msgctxt "#32058"
+msgid "Movies and Tvshows in IMDB Top250"
+msgstr "IMDB:n Top 250 elokuvat ja sarjat"
+
+msgctxt "#32059"
+msgid "Random media"
+msgstr "Satunnainen media"
+
+msgctxt "#32060"
+msgid "In progress and Random media"
+msgstr "Keskeneräinen ja satunnainen media"
+
+msgctxt "#32061"
+msgid "In progress music videos"
+msgstr "Keskeneräiset musiikkivideot"
+
+msgctxt "#32062"
+msgid "Random music videos"
+msgstr "Satunnaiset musiikkivideot"
+
+msgctxt "#32063"
+msgid "Recently added artists"
+msgstr "Viimeksi lisätyt esittäjät"
+
+msgctxt "#32064"
+msgid "Random artists"
+msgstr "Satunnaiset esittäjät"
+
+msgctxt "#32065"
+msgid "Recommended artists"
+msgstr "Esittäjäsuositukset"
+
+msgctxt "#32066"
+msgid "Unwatched movies"
+msgstr "Katsomattomat elokuvat"
+
+msgctxt "#32067"
+msgid "Hide watched items in recent items listings"
+msgstr "Piilota katsotut kohteet viimeisimpien kohteiden listauksista"
+
+msgctxt "#32068"
+msgid "Episodes airing today"
+msgstr "Tänään esitettävät jaksot"
+
+msgctxt "#32069"
+msgid "Recently played TV channels"
+msgstr "Viimeksi katsotut televisiokanavat"
